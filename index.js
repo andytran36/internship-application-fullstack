@@ -13,7 +13,7 @@ addEventListener('fetch', event => {
 
 /**
  * handleRequest takes the requests and directs it to appropriate variant
- * @param {Request} request 
+ * @param {any} request 
  */
 async function handleRequest(request) {
     // Fetch Array of Variants from API
