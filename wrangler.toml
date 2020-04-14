@@ -1,4 +1,4 @@
-name = "{{project-name}}"
+name = "internship-application-fullstack"
 type = "javascript"
 account_id = "ecdcf8db404a2cbc4d30029476565e10"
 workers_dev = true
